@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="squareColor">#00FF00</color>
+    <color name="backColor">#000015</color>
+    <color name="pathColor">#4682B4</color>
+</resources>
